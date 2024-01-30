@@ -1,12 +1,18 @@
 # Açıksız RelaX Sorgu Panel Script
 
 https://dosya.co/kzvxsw1v7bl5/RelaX_Checker.rar.html
-
 🟢 Link Şifresi: relaxrelax 🟢
 
-❗ Kullanıcı Adı: RelaX ❗
+## 🔍 〢 Gereksinimler
+〢 XAMPP (Sorguları Almak İçin Gerekli)
+- Xamp: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
 
-❗ Şifre: relaxrelax ❗
+## ⚙️ 〢 Kurulum Videosu
+- https://streamable.com/jmyv2m
+
+❗ Panel Kullanıcı Adı: RelaX ❗
+
+❗ Panel Şifre: relaxrelax ❗
 
 📸Ekran Görüntüleri📸
 
