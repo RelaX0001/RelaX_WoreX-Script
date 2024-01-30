@@ -8,7 +8,7 @@ https://dosya.co/kzvxsw1v7bl5/RelaX_Checker.rar.html
 
 ❗ Şifre: relaxrelax ❗
 
-#Ekran Görüntüleri
+##Ekran Görüntüleri
 
 ![300792020-ad1517e3-7738-402e-b4d0-7e26fcfc3d7a](https://github.com/RelaX0001/RelaX-Script/assets/149694302/eaa78310-3904-453b-b3a3-a00e62936357)
 
