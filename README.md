@@ -22,7 +22,11 @@ https://dosya.co/kzvxsw1v7bl5/RelaX_Checker.rar.html
 
 ![image](https://github.com/RelaX0001/RelaX-Script/assets/149694302/dd0befd5-83ba-4016-8208-449e5bb9b3b4)
 
+⛔⛔Eğitim Amaçlıdır, Sonunda Karşılaşacağınız Sorunlardan Tarafım Ve Ben Sorumlu Deilizdir Sorumluluk Tamamen Size Aittir!⛔⛔
+
 Sunucuma Gelerek Yardım İsteyebilirsiniz!
+
+
 https://discord.gg/Xu5NkzCxZm
 
 
