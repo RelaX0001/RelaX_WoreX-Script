@@ -1,6 +1,6 @@
 # Açıksız RelaX Sorgu Panel Script
 
-Link: 🟢 https://dosya.co/otkss7cpgky7/RelaX_Checker.rar.html 🟢
+Link: 🟢 https://dosya.co/2az366aieokz/RelaX_Checker.rar.html 🟢
 
 ## 🔍 〢 Gereksinimler
 〢 XAMPP (Sorguları Almak İçin Gerekli)
