@@ -12,7 +12,7 @@
 
 ❗ Panel Kullnıcı Adı: RelaX ❗
 
-❗ Panel Şifresi: relaxrelax ❗
+❗ Panel Şifresi: relaxfree ❗
 
 📸Ekran Görüntüleri📸
 - (![resim](https://github.com/RelaX0001/RelaX_WoreX-Script/assets/149694302/f47e4a85-1667-4f77-86ac-9b09ddcc48e8)
