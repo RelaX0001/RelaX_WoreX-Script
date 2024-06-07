@@ -1,4 +1,4 @@
-# Açıksız RelaX_Worex Sorgu Panel Script
+# Yapay Zeka Sistemli RelaX_Worex Sorgu Panel Script!
 
 ## 🔍 〢 Gereksinimler
 〢 XAMPP (Sorguları Almak İçin Gerekli)
@@ -23,8 +23,6 @@
 
 Sunucuma Gelerek Yardım İsteyebilirsiniz!
 
-https://discord.gg/Xu5NkzCxZm
++ Boost Basarak Nadir Bulabileceğiniz Dataları'da Alabilirsiniz!
 
-
-
-
+https://discord.com/invite/relaxservices
