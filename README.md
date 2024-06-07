@@ -7,7 +7,7 @@
 - [Xamp](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe)
 
 ## ⚙️ 〢 Kurulum 
-- - Yeni Script (Yapay Zeka Destekli) [Gpt_Script](https://www.youtube.com/watch?v=Ki-S-lVn5mA)
+- Yeni Script (Yapay Zeka Destekli) [Gpt_Script](https://www.youtube.com/watch?v=Ki-S-lVn5mA)
 - Almak İsteyen
 - Dostumun [Yotube Kanalına](https://www.youtube.com/@worex_pro) Abone Olup Like Atıp Yorum Yapıp, Onun Sunucusunda'ki  Abone SS'e Atın Sonra Scripti Alın!
 - [WoreX'in Sunucusu](https://discord.gg/2Nb3dEmJDR)
