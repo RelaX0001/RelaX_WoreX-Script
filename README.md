@@ -13,15 +13,13 @@
 - [WoreX'in Sunucusu](https://discord.gg/2Nb3dEmJDR)
 
 ❗ Panel Kullnıcı Adı: RelaX ❗
+
 ❗ Panel Şifresi: relaxrelax ❗
 
 📸Ekran Görüntüleri📸
 - (![resim](https://github.com/RelaX0001/RelaX_WoreX-Script/assets/149694302/f47e4a85-1667-4f77-86ac-9b09ddcc48e8)
-)
 - ![resim](https://github.com/RelaX0001/RelaX_WoreX-Script/assets/149694302/ca979d7c-6414-400c-9732-04e0a248d39b)
-
 - ![resim](https://github.com/RelaX0001/RelaX_WoreX-Script/assets/149694302/6ab9c63f-2784-41e8-9b72-42abcf4b9698)
-
 
 ⛔⛔Eğitim Amaçlıdır, Sonunda Karşılaşacağınız Sorunlardan Tarafım Ve Ben Sorumlu Deilizdir Sorumluluk Tamamen Size Aittir!⛔⛔
 
